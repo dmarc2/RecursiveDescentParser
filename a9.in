@@ -1,0 +1,7 @@
+begin
+    int a; int b;
+    int c, d,e;
+    a = 45;
+    b = a + 6;
+    j = d;
+end.
